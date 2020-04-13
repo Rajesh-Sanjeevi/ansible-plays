@@ -1,1 +1,2 @@
 My test file first entry
+my entry from master 2nd entry
